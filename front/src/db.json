@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "type": "fruit",
+      "name": "apple",
+      "count": "44",
+      "id": 6
+    },
+    {
+      "type": {
+        "type": "fruit",
+        "name": "apple",
+        "count": "44"
+      }
+    }
+  ]
+}
